@@ -23,8 +23,8 @@ p
 img
 {
 	border: 0;
-	background-image: none;
-	background-attachment: scroll;
+	background-image: url(../29134713_10216669904919243_1200942729_n.jpg);
+	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
 
@@ -125,7 +125,7 @@ ol li
 {
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url(../../../../Client%20picture/webpage-background-image.jpg);
+	background-image: url(../webpage-background-image.jpg);
 	background-repeat: repeat;
 }
 
@@ -142,7 +142,7 @@ ol li
 	border: 10px solid #DDD;
 	background-attachment: fixed;
 	background-color: transparent;
-	background-image: url(../../../../Client%20picture/29134713_10216669904919243_1200942729_n.jpg);
+	background-image: url(../29134713_10216669904919243_1200942729_n.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 }
@@ -154,7 +154,7 @@ ol li
 	height: 140px;
 	background-attachment: scroll;
 	background-color: #1d1d1d;
-	background-image: url(../../../../header.png);
+	background-image: url(../header.png);
 	background-repeat: no-repeat;
 	background-position: right center;
 }
@@ -162,10 +162,10 @@ ol li
 #logo #logo_text 
 {
 	position: absolute;
-	top: 6px;
-	left: -1px;
-	width: 462px;
-	height: 180px;
+	top: 3px;
+	left: 0px;
+	width: 457px;
+	height: 127px;
 	background-image: none;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
